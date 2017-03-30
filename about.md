@@ -8,4 +8,4 @@ permalink: /about/
 
 ### 联系方式
 
-[EMail](mailto:czlc1983@gmail.com)
+[电子邮箱](mailto:czlc1983@gmail.com)
