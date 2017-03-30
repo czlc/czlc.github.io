@@ -6,10 +6,10 @@
 name: 村长
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 记录是为了更好的思考
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
