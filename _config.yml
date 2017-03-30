@@ -84,6 +84,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  	
-encoding: UTF-8
 
+encoding: UTF-8
